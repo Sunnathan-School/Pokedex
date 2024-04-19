@@ -1,7 +1,7 @@
 const avatarList = [
-    {avatarId: 1, avatarSrc: '/src/assets/1.jpg'},
-    {avatarId: 2, avatarSrc: '/src/assets/2.jpg'},
-    {avatarId: 3, avatarSrc: '/src/assets/3.jpg'}
+    {avatarId: 1, avatarSrc: '/public/assets/1.jpg'},
+    {avatarId: 2, avatarSrc: '/public/assets/2.jpg'},
+    {avatarId: 3, avatarSrc: '/public/assets/3.jpg'}
 ]
 
 
